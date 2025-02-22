@@ -39,7 +39,7 @@
 {"key":"T4_imdb_d2","name":"🏠T4聚合imdb调试local","type":4,"api":"http://192.168.252.1:16214/home/imdb","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"pg_豆瓣","name":"🍥豆瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/douban.json"},
 {"key":"csp_配置中心","name":"⚙️配置中心[PG]","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
-//{"key":"csp_config","name":"🐼配置中心[CAT]","type":3,"api":"csp_Config","playerType":2,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
+{"key":"csp_config","name":"🐼配置中心[CAT]","type":3,"api":"csp_Config","playerType":2,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
 {"key":"fan_玩偶","name":"👽玩偶哥哥[FAN]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fan.txt"},
 
 #优质站点
