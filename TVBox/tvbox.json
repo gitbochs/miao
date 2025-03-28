@@ -33,6 +33,10 @@
 "sites":[
 
 #豆瓣首页
+{"key":"T4_douban_bak","name":"🏠T4聚合备份","type":4,"api":"http://67.216.219.230:16214/home?douban","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_tmdb_bak","name":"🏠T4聚合tmdb","type":4,"api":"http://67.216.219.230:16214/home/tmdb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_tmdb_d1","name":"🏠T4聚合tmdb调试","type":4,"api":"http://192.168.252.1:16214/home/tmdb","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_imdb_d2","name":"🏠T4聚合imdb调试local","type":4,"api":"http://192.168.252.1:16214/home/imdb","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"pg_豆瓣","name":"🍥豆瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 {"key":"csp_配置中心","name":"⚙️配置中心[PG]","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
 {"key":"zx_ConfigCenter","name":"💚配置中心[ZX]","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"./json/peizhi.json"},"jar":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/zx.jar"},
